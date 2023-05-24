@@ -1,9 +1,14 @@
+<?php
+include_once "header.php";
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8">
-    <title>PODER JUDICIAL</title>
+    <title>PODER JUDUCIAL</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -27,87 +32,16 @@
 </head>
 
 <body>
-    <!-- Header Start -->
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-lg-3 bg-secondary d-none d-lg-block">
-                <a href="index.html" class="navbar-brand w-100 h-100 m-0 p-0 d-flex align-items-center justify-content-center">
-                    <h1 class="m-0 display-4 text-primary text-uppercase">PODER JUDICIAL</h1>
-                </a>
-            </div>
-            <div class="col-lg-9">
-                <div class="row bg-white border-bottom d-none d-lg-flex">
-                    <div class="col-lg-7 text-left">
-                        <div class="h-100 d-inline-flex align-items-center py-2 px-3">
-                            <i class="fa fa-envelope text-primary mr-2"></i>
-                            <small>info@example.com</small>
-                        </div>
-                        <div class="h-100 d-inline-flex align-items-center py-2 px-2">
-                            <i class="fa fa-phone-alt text-primary mr-2"></i>
-                            <small>+012 345 6789</small>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 text-right">
-                        <div class="d-inline-flex align-items-center p-2">
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
-                                <i class="fab fa-facebook-f"></i>
-                            </a>
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
-                                <i class="fab fa-twitter"></i>
-                            </a>
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
-                                <i class="fab fa-linkedin-in"></i>
-                            </a>
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
-                                <i class="fab fa-instagram"></i>
-                            </a>
-                            <a class="btn btn-sm btn-outline-primary btn-sm-square mr-2" href="">
-                                <i class="fab fa-youtube"></i>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <nav class="navbar navbar-expand-lg bg-white navbar-light p-0">
-                    <a href="index.html" class="navbar-brand d-block d-lg-none">
-                        <h1 class="m-0 display-4 text-primary text-uppercase">Justice</h1>
-                    </a>
-                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav mr-auto py-0">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
-                            <a href="about.html" class="nav-item nav-link">About</a>
-                            <a href="service.html" class="nav-item nav-link">Practice</a>
-                            <a href="team.html" class="nav-item nav-link active">Attorneys</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Dropdown</a>
-                                <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="#" class="dropdown-item">Menu Item 1</a>
-                                    <a href="#" class="dropdown-item">Menu Item 2</a>
-                                    <a href="#" class="dropdown-item">Menu Item 3</a>
-                                </div>
-                            </div>
-                            <a href="contact.html" class="nav-item nav-link">Contact</a>
-                        </div>
-                        <a href="" class="btn btn-primary mr-3 d-none d-lg-block">Get A Quote</a>
-                    </div>
-                </nav>
-            </div>
-        </div>
-    </div>
-    <!-- Header End -->
-
-
+ 
     <!-- Page Header Start -->
     <div class="container-fluid bg-page-header" style="margin-bottom: 90px;">
         <div class="container">
             <div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 400px">
-                <h3 class="display-3 text-white text-uppercase">Attorney</h3>
+                <h3 class="display-3 text-white text-uppercase">About</h3>
                 <div class="d-inline-flex text-white">
                     <p class="m-0 text-uppercase"><a class="text-white" href="">Home</a></p>
                     <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                    <p class="m-0 text-uppercase">Attorney</p>
+                    <p class="m-0 text-uppercase">About</p>
                 </div>
             </div>
         </div>
@@ -115,83 +49,24 @@
     <!-- Page Header End -->
 
 
-    <!-- Team Start -->
+    <!-- About Start -->
     <div class="container-fluid py-5">
         <div class="container py-5">
-            <div class="text-center pb-2">
-                <h6 class="text-uppercase">Our Attorneys</h6>
-                <h1 class="mb-4">Meet Our Attorneys</h1>
-            </div>
             <div class="row">
-                <div class="col-12">
-                    <div class="bg-primary rounded" style="height: 200px;"></div>
-                    <div class="owl-carousel team-carousel position-relative" style="margin-top: -97px; padding: 0 30px;">
-                        <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
-                            <h5 class="mb-2 px-4">Attorney Name</h5>
-                            <p class="mb-3 px-4">Practice Area</p>
-                            <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-1.jpg" alt="">
-                                <div class="team-social">
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
-                            <h5 class="mb-2 px-4">Attorney Name</h5>
-                            <p class="mb-3 px-4">Practice Area</p>
-                            <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-2.jpg" alt="">
-                                <div class="team-social">
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
-                            <h5 class="mb-2 px-4">Attorney Name</h5>
-                            <p class="mb-3 px-4">Practice Area</p>
-                            <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-3.jpg" alt="">
-                                <div class="team-social">
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
-                            <h5 class="mb-2 px-4">Attorney Name</h5>
-                            <p class="mb-3 px-4">Practice Area</p>
-                            <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-4.jpg" alt="">
-                                <div class="team-social">
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-item text-center bg-white rounded overflow-hidden pt-4">
-                            <h5 class="mb-2 px-4">Attorney Name</h5>
-                            <p class="mb-3 px-4">Practice Area</p>
-                            <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-5.jpg" alt="">
-                                <div class="team-social">
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-lg-5">
+                    <img class="img-fluid rounded" src="img/about.jpg" alt="">
+                </div>
+                <div class="col-lg-7 mt-4 mt-lg-0">
+                    <h2 class="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block" style="width: 350px; margin-left: -205px;">25 Years Experience</h2>
+                    <h6 class="text-uppercase">Learn About Us</h6>
+                    <h1 class="mb-4">We Provide Reliable And Effective Legal Services</h1>
+                    <p>Invidunt lorem justo sanctus clita. Erat lorem labore ea, justo dolor lorem ipsum ut sed eos, ipsum et dolor kasd sit ea justo. Erat justo sed sed diam. Ea et erat ut sed diam sea ipsum est dolor</p>
+                    <a href="" class="btn btn-primary mt-2">Learn More</a>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Team End -->
+    <!-- About End -->
 
 
     <!-- Appointment Start -->
