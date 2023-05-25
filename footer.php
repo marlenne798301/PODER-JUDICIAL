@@ -1,42 +1,38 @@
-<div class="container-fluid bg-secondary text-white pt-5 px-sm-3 px-md-5" style="margin-top: 90px;">
+<div class="container-fluid text-white bg-secondary pt-5 px-sm-3 px-md-5" style="margin-top: 90px;">
         <div class="row mt-5">
-            <div class="col-lg-4">
-                <div class="d-flex justify-content-lg-center p-4" style="background: rgba(256, 256, 256, .05);">
-                    <i class="fa fa-2x fa-map-marker-alt text-primary"></i>
+            <div class="col-lg-4 mb-1">
+                <div class="d-flex justify-content-lg-center p-4 rounded-pill" style="background: rgba(256, 256, 256, .05);">
+                    <i class="fa fa-2x fa-envelope-open" style="color: #A1BABD"></i>
                     <div class="ml-3">
-                        <h5 class="text-white">Our Office</h5>
-                        <p class="m-0">123 Street, New York, USA</p>
+                    <a href="mailto:informática@pjdgo.gob.mx?Subject=Poder Judicial del Estado de Durango">informática@pjdgo.gob.mx.</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="d-flex justify-content-lg-center p-4" style="background: rgba(256, 256, 256, .05);">
-                    <i class="fa fa-2x fa-envelope-open text-primary"></i>
+            <div class="col-lg-4 mb-1">
+                <div class="d-flex justify-content-lg-center p-4 rounded-pill" style="background: rgba(256, 256, 256, .05);">
+                    <i class="fa fa-2x fa-map-marker-alt" style="color: #A1BABD"></i>
                     <div class="ml-3">
-                        <h5 class="text-white">Email Us</h5>
-                        <p class="m-0">info@example.com</p>
+                        <a class="m-0" href="https://goo.gl/maps/5Fgjw7a7RR4exEhy7">Calle Zaragoza s/n esq. 5 de febrero, Zona Centro, C.P. 34000.</a>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4">
-                <div class="d-flex justify-content-lg-center p-4" style="background: rgba(256, 256, 256, .05);">
-                    <i class="fa fa-2x fa-phone-alt text-primary"></i>
+            <div class="col-lg-4 mb-1">
+                <div class="d-flex justify-content-lg-center p-4 rounded-pill   " style="background: rgba(256, 256, 256, .05);">
+                    <i class="fa fa-2x fa-phone-alt" style="color: #A1BABD"></i>
                     <div class="ml-3">
-                        <h5 class="text-white">Call Us</h5>
-                        <p class="m-0">+012 345 6789</p>
+                        <a class="m-0" href="tel:6188114712">(618)-811 4712</a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="row pt-5">
-            <div class="col-lg-3 col-md-6 mb-5">
+            <div class="col-lg-5 col-md-12 mb-5">
                 <a href="index.html" class="navbar-brand">
-                    <h1 class="m-0 mt-n2 display-4 text-primary text-uppercase">Poder Judicial</h1>
-                    <h1 class="m-0 mt-n2 display-4 text-primary text-uppercase">Del Estado de</h1>
-                    <h1 class="m-0 mt-n2 display-4 text-primary text-uppercase">Durango</h1>
+                    <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Poder Judicial</h1>
+                    <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Del Estado de</h1>
+                    <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Durango</h1>
 
                 </a>
-                <p>Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr sed kasd et</p>
                 <div class="d-flex justify-content-start mt-4">
                     <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-lg btn-outline-light btn-lg-square mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -64,25 +60,12 @@
                     <a class="text-white" href="#"><i class="fa fa-angle-right mr-2"></i>Site Map</a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 mb-5">
-                <h4 class="font-weight-semi-bold text-primary mb-4">Newsletter</h4>
-                <p>Rebum labore lorem dolores kasd est, et ipsum amet et at kasd, ipsum sea tempor magna tempor. Accu kasd sed ea duo ipsum.</p>
-                <div class="w-100">
-                    <div class="input-group">
-                        <input type="text" class="form-control border-0" style="padding: 25px;" placeholder="Your Email">
-                        <div class="input-group-append">
-                            <button class="btn btn-primary px-4">Sign Up</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
-        <div class="row p-4 mt-5 mx-0" style="background: rgba(256, 256, 256, .05);">
-            <div class="col-md-6 text-center text-md-left mb-3 mb-md-0">
-                <p class="m-0 text-white">&copy; <a class="font-weight-bold" href="#">Your Site Name</a>. All Rights Reserved.</p>
-            </div>
-            <div class="col-md-6 text-center text-md-right">
-                <p class="m-0 text-white">Designed by <a class="font-weight-bold" href="https://htmlcodex.com">HTML Codex</a></p>
-            </div>
+        <div class="row p-4 mt-5 mx-1">
         </div>
+        
     </div>
+    <div class="col-md-12 text-center mb-3 mb-2">
+                <img src="img/logo1.jpg" class="h-25 p-4">
+                <p class="m-0 text-dark font-weight-bold">&copy; <a class="font-weight-bold text-dark" href="#"> 2023 </a> Poder Judicial del Estado de Durango.</p>
+            </div>

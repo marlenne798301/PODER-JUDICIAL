@@ -12,18 +12,18 @@
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #fd7e14;
-  --yellow: #ffc107;
+  --yellow: #A1BABD;
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #B49C73;
+  --primary: #A1BABD;
   --secondary: #37373F;
   --success: #28a745;
   --info: #17a2b8;
-  --warning: #ffc107;
+  --warning: #A1BABD;
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #B49C73;
+  color: #A1BABD;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #8e764c;
+  color: #607472;
   text-decoration: underline;
 }
 

@@ -3,6 +3,8 @@
 include_once "header.php";
 
 ?>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <title>Poder Judicial DGO</title>
@@ -30,7 +32,7 @@ include_once "header.php";
 
 <body>
     <!-- Carousel Start -->
-    <div class="container-fluid p-0 mb-5 pb-5">
+    <div class="container-fluid mb-5 pb-5">
         <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item position-relative active" style="height: 100vh; min-height: 400px;">
@@ -414,7 +416,7 @@ include_once "header.php";
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
-
+</html>
 <?php 
 include_once "footer.php";
 
