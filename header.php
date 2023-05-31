@@ -6,7 +6,7 @@
 <div class="col-lg-12 d-none d-lg-block">
             <a href="index.php"
                 class="navbar-brand h-2 m-0 p-0 d-flex align-items-center justify-content-center">
-                <img class="ml-5 rounded " src="img/logo1.jpg" style="width: 8%; margin: 12px;" alt="PJDGO">
+                <img class="ml-5 rounded " src="img/logo1.jpg" style="width: 5%; margin: 12px;" alt="PJDGO">
             </a>
 </div>
     
@@ -14,10 +14,10 @@
 
     <div class="row">
         <!-- LOGO OFICIAL DEL PODER JUDICIAL CON ACCESO A INICIO DE PAGINA -->
-        <div class="linea" style="  width: 100%; height: 3vmin; background-color: #607472;"></div>
+        <div class="linea" style="  width: 100%; height: 2vmin; background-color: #607472;"></div>
         <div class="col-sm-12 mb-2">
     <!-- PANEL DE NAVEGACION DE PAGINA -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgba(255,255,255,0.9)">
+    <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgba(255,255,255,0.9)">
         <a href="index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
             <h1 style="color: #373737">Poder Judicial</h1>
             <h1 style="color: #373737">del Estado de Durango</h1>
@@ -26,7 +26,7 @@
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse row" id="navbarCollapse" style="margin-top: -10px;">
+        <div class="collapse navbar-collapse row" id="navbarCollapse" style="margin-top: -15px;">
             <div class="navbar-nav col-lg-9">
                 <div class="col-md-3">
 
@@ -41,9 +41,9 @@
                     <a href="service.php" class="nav-item nav-link "><span class="material-symbols-outlined">assured_workload</span> Organigrama Institucional</a>
                 </div>
                 <div class="col-md-3 m-1" id="consultas-frecuentes">
-                    <div class="nav-item dropdown ">
+                    <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span class="material-symbols-outlined">contact_support</span> Consultas Frecuentes</a>
-                        <div class="dropdown-menu rounded-0 m-0"> 
+                        <div class="dropdown-menu rounded-0 m-0" > 
                             <a href="#" class="dropdown-item"><span class="material-symbols-outlined">manage_search</span> Consultas Frecuentes</a>
                             <br>
                             <a href="#" class="dropdown-item"><span class="material-symbols-outlined">menu_book</span> Directorio Institucional</a>
