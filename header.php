@@ -34,8 +34,26 @@
                 <div class="col-md-2 m-1">
                     <a href="index.php" class="nav-item nav-link "><span class="material-symbols-outlined">home </span> Inicio </a>
                 </div>
-                <div class="col-md-2 m-1">
-                    <a href="about.php" class="nav-item nav-link "><span class="material-symbols-outlined ">gavel </span> PJDGO</a>
+                <div class="col-md-3 m-1" id="PJDGO">
+                    <div class="nav-item dropdown ">
+                        <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span class="material-symbols-outlined ">gavel </span> PJDGO</a>
+                        <div class="dropdown-menu rounded-0 m-0"> 
+                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge"/> Magistrados</a>
+                            <br>
+                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/table-top-view.png" alt="table-top-view"/> Consejeros</a>
+                            <br>
+                            <a href="#" class="dropdown-item"> <span class="material-symbols-outlined">
+handshake
+</span> Acuerdos del Tribunal</a>
+                            <br>
+                            <a href="#" class="dropdown-item"><span class="material-symbols-outlined">record_voice_over</span> Acuerdos del Consejo</a>
+                            <br>
+                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales"/> Marco Normativo </a>
+                            <br>
+                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/bullish.png" alt="bullish"/> Estadistica Judicial</a>
+                            <br>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-3 m-1 ">
                     <a href="service.php" class="nav-item nav-link "><span class="material-symbols-outlined">assured_workload</span> Organigrama Institucional</a>
