@@ -27,83 +27,118 @@
 
     <br>
     <center>
-    <div class="image-container col-lg-4">
-      <img src="../img/YOLANDA-DE-LA-TORRE-VALDEZ.jpg">
-    </div>
+      <div class="image-container col-lg-4">
+        <img src="../img/YOLANDA-DE-LA-TORRE-VALDEZ.jpg">
+      </div>
     </center>
 
-    
     <br>
-    
+
     <br>
     <div class= "row" style="justify-content: center;" >
-    <div class="image-container col-lg-4 ">
-      <img src="../img/SUSANA-PACHECO-RODRIGUEZ.jpg" >
-    </div>
+      <div class="image-container col-lg-4 ">
+        <img src="../img/SUSANA-PACHECO-RODRIGUEZ.jpg" >
+      </div>
       
       <div class="image-container col-lg-4" >
         <img src="../img/EUSEBIO-CEPEDA-SOLIS.jpg">
-    </div>
+      </div>
 
-    <div class="image-container col-lg-4">
+      <div class="image-container col-lg-4">
         <img src="../img/KAREN-FLORES-MACIEL.jpg">
-    </div>
+      </div>
     </div>
 
     <br>
-    
+
     <br>
     <div class= "row" style="justify-content: center;" >
-    <div class="image-container col-lg-3 ">
-      <img src="../img/ALMA-ROSA-SOLIS-RIOS.jpg" >
-    </div>
-      
+      <div class="image-container col-lg-3 ">
+        <img src="../img/ALMA-ROSA-SOLIS-RIOS.jpg" >
+      </div>
+
       <div class="image-container col-lg-3" >
         <img src="../img/GEORGINA-GALVAN-GUTIERREZ.jpg">
-    </div>
+      </div>
 
-    <div class="image-container col-lg-3">
+      <div class="image-container col-lg-3">
         <img src="../img/TERESITA-DE-JESUS-HERRERA-DERAS.jpg">
-    </div>
+      </div>
 
-    <div class="image-container col-lg-3">
+      <div class="image-container col-lg-3">
         <img src="../img/JOSE-LUIS-LOPEZ-IBAÑEZ.jpg">
-    </div>
+      </div>
     </div>
 
     <br>
-    
+
     <br>
     <div class= "row" style="justify-content: center;" >
-    <div class="image-container col-lg-4 ">
-      <img src="../img/LUIS-CELIS-PORRAS.jpg" >
-    </div>
-      
+      <div class="image-container col-lg-4 ">
+        <img src="../img/LUIS-CELIS-PORRAS.jpg" >
+      </div>
+
       <div class="image-container col-lg-4" >
         <img src="../img/JORGE-ANTONIO-BRACHO-RUIZ.jpg">
-    </div>
+      </div>
 
-    <div class="image-container col-lg-4">
+      <div class="image-container col-lg-4">
         <img src="../img/MIRIAM-GUADALUPE-LANZARIN.jpg">
-    </div>
+      </div>
     </div>
 
     <br>
-    
+
     <br>
     <div class= "row" style="justify-content: center;" >
-    <div class="image-container col-lg-4 ">
-      <img src="../img/RAMON-GUZMAN-BENEAVENTE.jpg" >
-    </div>
-      
+      <div class="image-container col-lg-4 ">
+        <img src="../img/RAMON-GUZMAN-BENEAVENTE.jpg" >
+      </div>
+
       <div class="image-container col-lg-4" >
         <img src="../img/ANGEL-GERARDO-BONILLA-SAUCEDO.jpg">
+      </div>
+
+      <div class="image-container col-lg-4">
+        <img src="../img/VALERIA-LAZALDE-MEDINA.jpg">
+      </div>
     </div>
 
-    <div class="image-container col-lg-4">
-        <img src="../img/VALERIA-LAZALDE-MEDINA.jpg">
+
+    <br>
+
+    <br>
+    <div class= "row" style="justify-content: center;" >
+      <div class="image-container col-lg-4 ">
+        <img src="../img/KARLA-IVONNE-CABRALES-SILVA.jpg" >
+      </div>
+
+      <div class="image-container col-lg-4" >
+        <img src="../img/GERARDO-LARA-PEREZ.jpg">
+      </div>
+
+      <div class="image-container col-lg-4">
+        <img src="../img/HECTOR-JAVIER-ROSALES-BADILLO.jpg">
+      </div>
     </div>
+
+    <br>
+
+    <br>
+    <div class= "row" style="justify-content: center;" >
+      <div class="image-container col-lg-4 ">
+        <img src="../img/APOLONIO-BETANCOURT-RUIZ.jpg" >
+      </div>
+
+      <div class="image-container col-lg-4" >
+        <img src="../img/FLORENCIO-RUBIO-DIAZ.jpg">
+      </div>
+
+      <div class="image-container col-lg-4">
+        <img src="../img/MIGUEL-ANGEL-OLVERA-ESCALERA.jpg">
+      </div>
     </div>
+
 
 </body>
 </html>
