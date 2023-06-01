@@ -16,8 +16,9 @@
         <!-- LOGO OFICIAL DEL PODER JUDICIAL CON ACCESO A INICIO DE PAGINA -->
         <div class="linea" style="  width: 100%; height: 3vmin; background-color: #607472;"></div>
         <div class="col-sm-12 mb-2">
-    <!-- PANEL DE NAVEGACION DE PAGINA -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgba(255,255,255,0.9)">
+
+        <!-- PANEL DE NAVEGACION DE PAGINA -->
+        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgba(255,255,255,0.9)">
         <a href="index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
             <h1 style="color: #373737">Poder Judicial</h1>
             <h1 style="color: #373737">del Estado de Durango</h1>
@@ -34,30 +35,36 @@
                 <div class="col-md-2 m-1">
                     <a href="index.php" class="nav-item nav-link "><span class="material-symbols-outlined">home </span> Inicio </a>
                 </div>
+
+
+                <!-- MENU DESPLEGABLE PJDGO INICIO -->
                 <div class="col-md-3 m-1" id="PJDGO">
                     <div class="nav-item dropdown ">
                         <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span class="material-symbols-outlined ">gavel </span> PJDGO</a>
                         <div class="dropdown-menu rounded-0 m-0"> 
-                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge"/> Magistrados</a>
+                            <a href="PJDGO/magistrados.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge"/> Magistrados</a>
                             <br>
-                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/table-top-view.png" alt="table-top-view"/> Consejeros</a>
+                            <a href="PJDGO/consejeros.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/table-top-view.png" alt="table-top-view"/> Consejeros</a>
                             <br>
-                            <a href="#" class="dropdown-item"> <span class="material-symbols-outlined">
-handshake
-</span> Acuerdos del Tribunal</a>
+                            <a href="PJDGO/acuerdosTribunal.php" class="dropdown-item"> <span class="material-symbols-outlined"> handshake </span> Acuerdos del Tribunal</a>
                             <br>
-                            <a href="#" class="dropdown-item"><span class="material-symbols-outlined">record_voice_over</span> Acuerdos del Consejo</a>
+                            <a href="PJDGO/acuerdosConsejo.php" class="dropdown-item"><span class="material-symbols-outlined">record_voice_over</span> Acuerdos del Consejo</a>
                             <br>
-                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales"/> Marco Normativo </a>
+                            <a href="PJDGO/marcoNormativo.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales"/> Marco Normativo </a>
                             <br>
-                            <a href="#" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/bullish.png" alt="bullish"/> Estadistica Judicial</a>
+                            <a href="PJDGO/estadisticaJudicial.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/bullish.png" alt="bullish"/> Estadistica Judicial</a>
                             <br>
                         </div>
                     </div>
                 </div>
+                <!-- MENU DESPLEGABLE PJDGO FINAL -->
+
+
                 <div class="col-md-3 m-1 ">
                     <a href="service.php" class="nav-item nav-link "><span class="material-symbols-outlined">assured_workload</span> Organigrama Institucional</a>
                 </div>
+
+                <!-- MENU DESPLEGABLE DE CONSULTAS FRECUENTES INICIO -->
                 <div class="col-md-3 m-1" id="consultas-frecuentes">
                     <div class="nav-item dropdown ">
                         <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span class="material-symbols-outlined">contact_support</span> Consultas Frecuentes</a>
@@ -77,21 +84,29 @@ handshake
                         </div>
                     </div>
                 </div>
+                <!-- MENU DESPLEGABLE DE CONSULTAS FRECUENTES FINAL-->
+
+
                 <!-- Nuevo contenido añadido al centro -->
                 <!-- Fin del nuevo contenido añadido al centro -->
             </div>
-           
         </div>
+
+
+        <!-- REDES SOCIALES -->
         <div class="d-flex justify-content-start mx-2">
-        <button class="btn btn-lg btn-outline-dark btn-lg-square mr-2" onclick="window.open('https://www.twitter.com/PJDGO', '_blank');"><i class="fab fa-twitter"></i></button>
+                <button class="btn btn-lg btn-outline-dark btn-lg-square mr-2" onclick="window.open('https://www.twitter.com/PJDGO', '_blank');"><i class="fab fa-twitter"></i></button>
                 <button class="btn btn-lg btn-outline-dark btn-lg-square mr-2" onclick="window.open('https://www.facebook.com/PJDGO', '_blank');"><i class="fab fa-facebook-f"></i></button>
                 <button class="btn btn-lg btn-outline-dark btn-lg-square mr-2" onclick="window.open('https://www.youtube.com/@pjdgo4420', '_blank');"><i class="fab fa-youtube"></i></button>
-                </div>
+        </div>
+        <!-- REDES SOCIALES -->
+        
     </nav>
     </div>
 
     </div>
 </div>  
+
 <style>
     @media screen and (max-width: 990px) {
   #navbarCollapse {
