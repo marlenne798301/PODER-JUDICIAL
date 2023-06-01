@@ -16,14 +16,12 @@
         <!-- LOGO OFICIAL DEL PODER JUDICIAL CON ACCESO A INICIO DE PAGINA -->
         <div class="linea" style="  width: 100%; height: 2vmin; background-color: #607472;"></div>
         <div class="col-sm-12 mb-2">
-<<<<<<< HEAD
+
 
         <!-- PANEL DE NAVEGACION DE PAGINA -->
         <nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgba(255,255,255,0.9)">
-=======
     <!-- PANEL DE NAVEGACION DE PAGINA -->
     <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgba(255,255,255,0.9)">
->>>>>>> b040cdc56af661ea2df05ffece34021116c00c7e
         <a href="index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
             <h1 style="color: #373737">Poder Judicial</h1>
             <h1 style="color: #373737">del Estado de Durango</h1>
