@@ -15,11 +15,7 @@
     <div class="row">
         <!-- LOGO OFICIAL DEL PODER JUDICIAL CON ACCESO A INICIO DE PAGINA -->
         <div class="linea" style="  width: 100%; height: 2vmin; background-color: #607472;"></div>
-        <div class="col-sm-12 mb-2">
-
-
-        <!-- PANEL DE NAVEGACION DE PAGINA -->
-        <nav class="navbar navbar-expand-lg navbar-light" style="background-color: rgba(255,255,255,0.9)">
+        <div class="col-lg-12 mb-2">
     <!-- PANEL DE NAVEGACION DE PAGINA -->
     <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgba(255,255,255,0.9)">
         <a href="index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
