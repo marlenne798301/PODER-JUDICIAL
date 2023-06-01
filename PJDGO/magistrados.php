@@ -71,5 +71,39 @@
     </div>
     </div>
 
+    <br>
+    
+    <br>
+    <div class= "row" style="justify-content: center;" >
+    <div class="image-container col-lg-4 ">
+      <img src="../img/LUIS-CELIS-PORRAS.jpg" >
+    </div>
+      
+      <div class="image-container col-lg-4" >
+        <img src="../img/JORGE-ANTONIO-BRACHO-RUIZ.jpg">
+    </div>
+
+    <div class="image-container col-lg-4">
+        <img src="../img/MIRIAM-GUADALUPE-LANZARIN.jpg">
+    </div>
+    </div>
+
+    <br>
+    
+    <br>
+    <div class= "row" style="justify-content: center;" >
+    <div class="image-container col-lg-4 ">
+      <img src="../img/RAMON-GUZMAN-BENEAVENTE.jpg" >
+    </div>
+      
+      <div class="image-container col-lg-4" >
+        <img src="../img/ANGEL-GERARDO-BONILLA-SAUCEDO.jpg">
+    </div>
+
+    <div class="image-container col-lg-4">
+        <img src="../img/VALERIA-LAZALDE-MEDINA.jpg">
+    </div>
+    </div>
+
 </body>
 </html>
