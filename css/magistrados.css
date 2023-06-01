@@ -1,0 +1,13 @@
+.image-container {
+    text-align: center;
+}
+  
+img {
+    border-radius: 50%;
+    width: 200px; /* Ajusta el tamaño de acuerdo a tus necesidades */
+}
+  
+.image-description {
+    margin-top: 10px; /* Espacio entre la imagen y la descripción */
+}
+  
