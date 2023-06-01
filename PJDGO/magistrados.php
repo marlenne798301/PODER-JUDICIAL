@@ -1,6 +1,5 @@
 <?php
-include_once "../header.php";
-
+include_once "pjdgo_header.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -19,13 +18,20 @@ include_once "../header.php";
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+    <!-- CONTENIDO DEL ENCABEZADO DE PAGINA O MENU DE NAVEGACION -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="shortcut icon" href="../img/logo1.jpg">
+    <link href="../css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/PJDGO.css">
     <title>Magistrados</title>
 </head>
 
 <body>
-<center><h1>Honorable Pleno del Tribunal Superior de Justicia</h1></center>
+    <br>
+    <br>
+    <center><h1>Honorable Pleno del Tribunal Superior de Justicia</h1></center>
 
-
+    <br>
 <center>
 <div class="image-container">
   <img src="../img/YOLANDA-DE-LA-TORRE-VALDEZ.jpg" alt="Magistrada"> 
@@ -35,6 +41,18 @@ include_once "../header.php";
   </div>
 </div>
 </center>
+    <div class= "row" style="justify-content: center;" >
+    <div class="image-container col-lg-4">
+      <img src="ruta_de_la_imagen2.jpg" >
+    </div>
+      
+      <div class="image-container col-lg-4" >
+        <img src="ruta_de_la_imagen3.jpg">
+    </div>
 
+    <div class="image-container col-lg-4">
+        <img src="ruta_de_la_imagen3.jpg">
+    </div>
+    </div>
 </body>
 </html>

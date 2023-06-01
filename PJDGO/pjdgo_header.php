@@ -1,6 +1,8 @@
 <!-- CONTENIDO DEL ENCABEZADO DE PAGINA O MENU DE NAVEGACION -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 <link rel="shortcut icon" href="../img/logo1.jpg">
+<link href="../css/style.css" rel="stylesheet">
+
 <div class="col-lg-12 d-none d-lg-block">
             <a href="../index.php"
                 class="navbar-brand h-2 m-0 p-0 d-flex align-items-center justify-content-center">
@@ -36,10 +38,10 @@
 
                 <!-- MENU DESPLEGABLE PJDGO INICIO -->
                 <div class="col-md-3 m-1" id="PJDGO">
-                    <div class="nav-item dropdown ">
+                    <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span class="material-symbols-outlined ">gavel </span> PJDGO</a>
                         <div class="dropdown-menu rounded-0 m-0"> 
-                            <a href="magistrados.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge"/> Magistrados</a>
+                            <a href="magistrados.php" class="dropdown-item"><img width="5" height="10" src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge"/> Magistrados</a>
                             <br>
                             <a href="consejeros.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/ios/50/table-top-view.png" alt="table-top-view"/> Consejeros</a>
                             <br>
@@ -121,5 +123,20 @@
 }
 
 </style>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/tempusdominus/js/moment.min.js"></script>
+    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+
+    <!-- Contact Javascript File -->
+    <script src="mail/jqBootstrapValidation.min.js"></script>
+    <script src="mail/contact.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
 
 <!-- FINALIZA CONTENIDO DE PAGINA -->
