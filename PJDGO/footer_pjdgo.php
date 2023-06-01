@@ -180,7 +180,7 @@
 
 </div>
 <div class="col-md-12 text-center mb-3 mb-2">
-    <img src="img/logo1.jpg" class="h-25 p-4">
+    <img src="../img/logo1.jpg" class="h-25 p-4">
     <p class="m-0 text-dark font-weight-bold">&copy; <a class="font-weight-bold text-dark" href="#"> 2023 </a> Poder
         Judicial del Estado de Durango.</p>
 </div>
