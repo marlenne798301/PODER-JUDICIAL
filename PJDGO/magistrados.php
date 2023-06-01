@@ -27,22 +27,47 @@
 
     <br>
     <center>
-    <div class="image-container">
+    <div class="image-container col-lg-4">
       <img src="../img/YOLANDA-DE-LA-TORRE-VALDEZ.jpg">
     </div>
     </center>
 
+    
+    <br>
+    
+    <br>
     <div class= "row" style="justify-content: center;" >
-    <div class="image-container col-lg-4">
-      <img src="ruta_de_la_imagen2.jpg" >
+    <div class="image-container col-lg-4 ">
+      <img src="../img/SUSANA-PACHECO-RODRIGUEZ.jpg" >
     </div>
       
       <div class="image-container col-lg-4" >
-        <img src="ruta_de_la_imagen3.jpg">
+        <img src="../img/EUSEBIO-CEPEDA-SOLIS.jpg">
     </div>
 
     <div class="image-container col-lg-4">
-        <img src="ruta_de_la_imagen3.jpg">
+        <img src="../img/KAREN-FLORES-MACIEL.jpg">
+    </div>
+    </div>
+
+    <br>
+    
+    <br>
+    <div class= "row" style="justify-content: center;" >
+    <div class="image-container col-lg-3 ">
+      <img src="../img/ALMA-ROSA-SOLIS-RIOS.jpg" >
+    </div>
+      
+      <div class="image-container col-lg-3" >
+        <img src="../img/GEORGINA-GALVAN-GUTIERREZ.jpg">
+    </div>
+
+    <div class="image-container col-lg-3">
+        <img src="../img/TERESITA-DE-JESUS-HERRERA-DERAS.jpg">
+    </div>
+
+    <div class="image-container col-lg-3">
+        <img src="../img/JOSE-LUIS-LOPEZ-IBAÑEZ.jpg">
     </div>
     </div>
 
