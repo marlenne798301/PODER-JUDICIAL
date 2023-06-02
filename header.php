@@ -6,7 +6,7 @@
 <div class="col-lg-12 d-none d-lg-block">
             <a href="index.php"
                 class="navbar-brand h-2 m-0 p-0 d-flex align-items-center justify-content-center">
-                <img class="ml-5 rounded " src="img/logo1.jpg" style="width: 5%; margin: 12px;" alt="PJDGO">
+                <img class="ml-5 rounded " src="img/logo1.jpg" style="width: 10%; margin: 12px;" alt="PJDGO">
             </a>
 </div>
     

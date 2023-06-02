@@ -20,8 +20,8 @@ include_once "header.php";
     <!-- Font Awesome -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="lib1/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="lib1/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 </head>
@@ -30,9 +30,9 @@ include_once "header.php";
     <!-- Carousel Start -->
     <div class="container-fluid mb-5 pb-5">
         <div id="header-carousel" class="carousel slide carousel-fade row" data-ride="carousel">
-            <div class="carousel-inner mx-3 my-3">
+            <div class="carousel-inner mx-2 mt-5">
                 <div class="carousel-item position-relative active"
-                    style="height: 90vh; min-height: 400px; margin-top: 40px;">
+                    style="height: 70vh; min-height: 400px; ">
                     <img class="position-absolute w-100 h-100" src="img/banner1.jpg" style="object-fit: cover;">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
@@ -42,16 +42,6 @@ include_once "header.php";
                         </div>
                     </div>
                 </div>
-                <!-- <div class="carousel-item position-relative" style="height: 90vh; min-height: 400px; margin-top: 40px;">
-                    <img class="position-absolute w-100 h-100" src="img/carousel-2.jpg" style="object-fit: cover;">
-                    <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">Results You Deserve</h4>
-                            <h3 class="display-2 text-capitalize text-white mb-4">We prepared to oppose for you</h3>
-                            <a class="btn btn-primary py-3 px-5 mt-2" href="#">Call Us Now</a>
-                        </div>
-                    </div>
-                </div> -->
                 <a class="carousel-control-prev" href="#header-carousel" data-slide="prev">
                     <div class="btn btn-lg btn-secondary btn-lg-square">
                         <span class="carousel-control-prev-icon"></span>
@@ -402,16 +392,15 @@ include_once "header.php";
     <!-- Back to Top -->
     <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
-
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/tempusdominus/js/moment.min.js"></script>
-    <script src="lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="lib1/easing/easing.min.js"></script>
+    <script src="lib1/waypoints/waypoints.min.js"></script>
+    <script src="lib1/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib1/tempusdominus/js/moment.min.js"></script>
+    <script src="lib1/tempusdominus/js/moment-timezone.min.js"></script>
+    <script src="lib1/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
 
     <!-- Contact Javascript File -->
     <script src="mail/jqBootstrapValidation.min.js"></script>

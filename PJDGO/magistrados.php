@@ -22,7 +22,7 @@ include_once "pjdgo_header.php";
 
     <br>
     <center>
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/YOLANDA-DE-LA-TORRE-VALDEZ.jpg" class="img-ministros">
       </div>
     </center>
@@ -31,15 +31,15 @@ include_once "pjdgo_header.php";
 
     <br>
     <div class= "row" style="justify-content: center;" >
-      <div class="image-container col-lg-4 ">
+      <div class="image-container col-lg-3 ">
         <img src="../img/SUSANA-PACHECO-RODRIGUEZ.jpg" class="img-ministros" >
       </div>
       
-      <div class="image-container col-lg-4" >
+      <div class="image-container col-lg-3" >
         <img src="../img/EUSEBIO-CEPEDA-SOLIS.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/KAREN-FLORES-MACIEL.jpg" class="img-ministros">
       </div>
     </div>
@@ -69,15 +69,15 @@ include_once "pjdgo_header.php";
 
     <br>
     <div class= "row" style="justify-content: center;" class="img-ministros">
-      <div class="image-container col-lg-4 ">
+      <div class="image-container col-lg-3 ">
         <img src="../img/LUIS-CELIS-PORRAS.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4" >
+      <div class="image-container col-lg-3" >
         <img src="../img/JORGE-ANTONIO-BRACHO-RUIZ.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/MIRIAM-GUADALUPE-LANZARIN.jpg" class="img-ministros">
       </div>
     </div>
@@ -86,15 +86,15 @@ include_once "pjdgo_header.php";
 
     <br>
     <div class= "row" style="justify-content: center;" class="img-ministros">
-      <div class="image-container col-lg-4 ">
+      <div class="image-container col-lg-3 ">
         <img src="../img/RAMON-GUZMAN-BENEAVENTE.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4" >
+      <div class="image-container col-lg-3" >
         <img src="../img/ANGEL-GERARDO-BONILLA-SAUCEDO.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/VALERIA-LAZALDE-MEDINA.jpg" class="img-ministros">
       </div>
     </div>
@@ -104,15 +104,15 @@ include_once "pjdgo_header.php";
 
     <br>
     <div class= "row" style="justify-content: center;" class="img-ministros">
-      <div class="image-container col-lg-4 ">
+      <div class="image-container col-lg-3 ">
         <img src="../img/KARLA-IVONNE-CABRALES-SILVA.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4" >
+      <div class="image-container col-lg-3" >
         <img src="../img/GERARDO-LARA-PEREZ.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/HECTOR-JAVIER-ROSALES-BADILLO.jpg" class="img-ministros">
       </div>
     </div>
@@ -121,15 +121,15 @@ include_once "pjdgo_header.php";
 
     <br>
     <div class= "row" style="justify-content: center;" >
-      <div class="image-container col-lg-4 ">
+      <div class="image-container col-lg-3 ">
         <img src="../img/APOLONIO-BETANCOURT-RUIZ.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4" >
+      <div class="image-container col-lg-3" >
         <img src="../img/FLORENCIO-RUBIO-DIAZ.jpg" class="img-ministros">
       </div>
 
-      <div class="image-container col-lg-4">
+      <div class="image-container col-lg-3">
         <img src="../img/MIGUEL-ANGEL-OLVERA-ESCALERA.jpg" class="img-ministros">
       </div>
     </div>
@@ -140,6 +140,4 @@ include_once "pjdgo_header.php";
 </html>
 <?php
 include_once "footer_pjdgo.php";
-include_once "librerias.php";
-
 ?>
