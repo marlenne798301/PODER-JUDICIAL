@@ -1,10 +1,15 @@
-.image-container {
-    text-align: center;
-    display: inline-block;
-    text-align: center;
-  }
+img-ministros {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
 
-  .img-ministros {
-    border-radius: 10%;
-    width: 60%; /* Ajusta el tamaño de acuerdo a tus necesidades */
-  }
+.image-container {
+  margin-bottom: 0;
+  padding: 10px;
+}
+
+.row.no-gutters {
+  margin-left: -5vmax;
+  margin-right: -5vmax;
+}

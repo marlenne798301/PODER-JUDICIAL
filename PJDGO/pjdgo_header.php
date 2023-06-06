@@ -59,9 +59,13 @@ include_once "librerias.php";
                                             class="material-symbols-outlined">record_voice_over</span> Acuerdos del
                                         Consejo</a>
                                     <br>
-                                    <a href=marcoNormativo.php" class="dropdown-item"><img width="25" height="25"
+                                    <a href="marcoNormativo.php" class="dropdown-item"><img width="25" height="25"
                                             src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales" />
                                         Marco Normativo </a>
+                                    <br>
+                                    <a href="PJDGO/codigoEtica.php" class="dropdown-item"><img width="24" height="24" 
+                                    src="https://img.icons8.com/material-outlined/24/read.png" alt="read"/> 
+                                        Código de Ética </a>
                                     <br>
                                     <a href="estadisticaJudicial.php" class="dropdown-item"><img width="25" height="25"
                                             src="https://img.icons8.com/material-outlined/24/bullish.png"

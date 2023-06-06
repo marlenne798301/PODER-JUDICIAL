@@ -51,6 +51,8 @@
                             <br>
                             <a href="PJDGO/marcoNormativo.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales"/> Marco Normativo </a>
                             <br>
+                            <a href="PJDGO/codigoEtica.php" class="dropdown-item"><img width="24" height="24" src="https://img.icons8.com/material-outlined/24/read.png" alt="read"/> Código de Ética </a>
+                            <br>
                             <a href="PJDGO/estadisticaJudicial.php" class="dropdown-item"><img width="25" height="25" src="https://img.icons8.com/material-outlined/24/bullish.png" alt="bullish"/> Estadistica Judicial</a>
                             <br>
                         </div>
