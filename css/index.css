@@ -1,0 +1,65 @@
+#team-item {
+    background-color: #ffffff;
+  }
+  
+  #team-item:hover {
+    opacity: 0.9;
+    background-color: #cccbcb;
+    transition: background-color 0.3s;
+  }
+  
+  .sitios-interes {
+    width: 100%;
+  }
+  
+  td h3 {
+    text-align: justify;
+  }
+  
+  .sitios:hover {
+    opacity: 0.8;
+    background-color: #999999;
+    color: black;
+    font-size: bold;
+    cursor: pointer;
+    transition: background-color .3s;
+    border-radius: 20%;
+  }
+  .fechas {
+    text-align: center;
+  }
+  
+  tr td img {
+    border-radius: 10%;
+    box-shadow: 2px 4px 5px #6b6b6b; 
+  }
+
+  .otros-enlaces{
+    margin: 0;
+    text-align: center;
+    border-radius: 10%;
+    margin: 2vmin;
+    padding: 5%;
+  }
+  .otros-enlaces:hover{
+    background-color: #d3d3d3b2;
+    cursor: pointer;
+    opacity: 0.7;
+    
+  }
+  .otros-enlaces img{
+    opacity: 0.9;
+  }
+  .otros-enlaces h4{
+    color: black;
+    text-decoration: solid;
+    margin-bottom: 1vmin;
+  }
+
+  #enlaces-organos{
+    vertical-align: baseline;
+  }
+h4{
+  font-size: 2.5vmin;
+  font-weight: lighter;
+}

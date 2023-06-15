@@ -15,7 +15,7 @@
                 style="background: rgba(256, 256, 256, .05);">
                 <i class="fa fa-2x fa-map-marker-alt" style="color: #A1BABD"></i>
                 <div class="ml-3">
-                    <a class="m-0" href="https://goo.gl/maps/5Fgjw7a7RR4exEhy7">Calle Zaragoza s/n esq. 5 de febrero,
+                    <a class="m-0" onclick="window.open('https://goo.gl/maps/5Fgjw7a7RR4exEhy7','_blank');">Calle Zaragoza s/n esq. 5 de febrero,
                         Zona Centro, C.P. 34000.</a>
                 </div>
             </div>
@@ -41,7 +41,7 @@
 
         </div>
         <div class="col-lg-2 col-md-5 mb-5">
-            <h4 class="font-weight-bold text-light mb-4">Consultas frecuentes </h4>
+            <h3 class="font-weight-bold text-light mb-4">Consultas frecuentes </h3>
             <div class="d-flex flex-column justify-content-start">
                 <div class="menu1 my-1">
                     <a class="text-white mb-2" data-toggle="dropdown"><i
@@ -96,7 +96,7 @@
             </div>
         </div>
         <div class="col-lg-2 col-md-5 mb-5">
-            <h4 class="font-weight-bold text-light mb-4">Órganos jurisdiccionales y administrativos</h4>
+            <h3 class="font-weight-bold text-light mb-4">Órganos jurisdiccionales y administrativos</h3>
             <div class="d-flex flex-column justify-content-start">
                 <div class="menu1 my-1">
                     <a class="text-white mb-2" data-toggle="dropdown"><i
@@ -134,7 +134,7 @@
             </div>
         </div>
         <div class="col-lg-2 col-md-5 mb-5">
-            <h4 class="font-weight-bold text-light mb-4">Marco normativo </h4>
+            <h3 class="font-weight-bold text-light mb-4">Marco normativo </h3>
             <div class="d-flex flex-column justify-content-start">
                 <div class="menu1 my-1">
                     <a class="text-white mb-2" data-toggle="dropdown"><i
