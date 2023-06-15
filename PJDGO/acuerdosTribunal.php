@@ -43,56 +43,6 @@ include_once "pjdgo_header.php";
             font-weight: bold;
             line-height: 1.5;
         }
-
-        tr:hover {
-            background-color: #f5f5f5;
-            width: 650%;
-        }
-
-        .btn {
-            display: inline-block;
-            padding: 10% 20%;
-            font-size: 16%;
-            font-weight: bold;
-            text-align: center;
-            text-decoration: none;
-            background-color: #f44336;
-            color: #fff;
-            border-radius: 4%;
-            border: none;
-            cursor: pointer;
-        }
-
-        .btn:hover {
-            background-color: #da190b;
-            width: 650%;
-        }
-
-        .btn-primary {
-            background-color: #007bff;
-        }
-
-        .btn-primary:hover {
-            background-color: #0069d9;
-            width: 650%;
-        }
-
-        .back-to-top {
-            position: fixed;
-            bottom: 20%;
-            right: 20%;
-            display: none;
-            font-size: 24%;
-            color: #fff;
-            background-color: #007bff;
-            border-radius: 50%;
-            padding: 10%;
-        }
-
-        .back-to-top:hover {
-            background-color: #0069d9;
-            width: 650%;
-        }
     </style>
   
 
@@ -223,9 +173,9 @@ include_once "pjdgo_header.php";
     }
   </style>
 
-  <!-- BOTÓN DE REGRESAR AL INICIO
- <a href="#" class="btn btn-primary "><i class="fa fa-angle-double-up"></i></a>
--->
+
+<!-- BOTÓN DE REGRESAR AL INICIO -->
+<a href="#" class="btn btn-secondary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
  
 
 </body>
