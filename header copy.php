@@ -113,6 +113,9 @@
     margin: 2vmin;
     margin-bottom: 2vw;
   }
+  article{
+    justify-content: center;
+  }
 }
 
 @media screen and (min-width: 991px) {
