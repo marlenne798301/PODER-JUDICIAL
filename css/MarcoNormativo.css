@@ -1,0 +1,63 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+  }
+
+  .izquierda {                           /* ESTILOS PARA ALINEACION DE TABLAS  "LEYES FEDERALES" */  
+    width: 35%;
+  }
+
+  .derecha {                             /* ESTILOS PARA ALINEACION DE TABLAS "LEYES ESTATALES" */
+    width: 35%;
+  }
+
+  .tabla-desplegable {
+    width: 500px;
+    margin: 0 auto 10px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .tabla-desplegable h3 {                   /* ESTILOS PARA MODIFICAR TAMAÑA DE LAS TABLAS DESPLEGABLES SOLO DE H3 DONDE SE ENCUENTRA EL SCRIPT */ 
+    background-color: #ddd;
+    padding: 10px;
+    margin: 0;
+    cursor: pointer;
+    text-align: center;
+  }
+
+  .tabla-desplegable h3:hover{
+    background-color:  #A1BABD;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+
+  .tabla-contenido {
+    padding: 10px;
+    display: none;
+  }
+
+  .tabla-contenido table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .tabla-contenido th,
+  .tabla-contenido td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .tabla-contenido th {                      /* ESTILOS PARA CAMBIAR LOS TITULOS DE LOS TH */ 
+    background-color: #f9f9f9;
+  }
+
+  .button {                                  /* ESTILOS DE BOTÓN PARA DESCARGAR */ 
+    padding: 6px 12px;
+    background-color:#607472;
+    color: white;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+  }
