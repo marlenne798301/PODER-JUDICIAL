@@ -32,7 +32,7 @@
     </div>
     <div class="row pt-5">
         <div class="col-lg-5 col-md-12 mb-5">
-            <a href="index.html" class="navbar-brand">
+            <a href="../inicio/index.php" class="navbar-brand">
                 <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Poder Judicial</h1>
                 <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Del Estado de</h1>
                 <h1 class="m-0 mt-n2 display-4 text-white text-uppercase">Durango</h1>
@@ -180,7 +180,7 @@
 
 </div>
 <div class="col-md-12 text-center mb-3 mb-2">
-    <img src="img/logo1.jpg" class="h-25 p-4">
+    <img src="../img/logo1.jpg" class="h-25 p-4">
     <p class="m-0 text-dark font-weight-bold">&copy; <a class="font-weight-bold text-dark" href="#"> 2023 </a> Poder
         Judicial del Estado de Durango.</p>
 </div>

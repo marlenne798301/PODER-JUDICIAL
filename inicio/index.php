@@ -1,6 +1,6 @@
 <?php 
 //manda a llamar el encabezado de pagina
-include_once "header.php";
+include_once "../footer-header/header.php";
 
 ?>
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ include_once "header.php";
   <title>Poder Judicial del Estado de Durango</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
   <!-- Favicon -->
-  <link href="img/favicon.ico" rel="icon" />
+  <link href="../img/favicon.ico" rel="icon" />
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link
@@ -20,11 +20,11 @@ include_once "header.php";
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" />
   <!-- Libraries Stylesheet -->
-  <link href="lib1/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
-  <link href="lib1/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+  <link href="../lib1/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+  <link href="../lib1/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
   <!-- Customized Bootstrap Stylesheet -->
-  <link href="css/style.css" rel="stylesheet" />
-  <link rel="stylesheet" href="css/index.css" />
+  <link href="../css/style.css" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/index.css" />
 </head>
 
 <body>
@@ -33,7 +33,7 @@ include_once "header.php";
     <div id="header-carousel" class="carousel slide carousel-fade row" data-ride="carousel">
       <div class="carousel-inner mx-2 mt-5">
         <div class="carousel-item position-relative active" style="height: 70vh; min-height: 400px;">
-          <img class="position-absolute w-100 h-100" src="img/banner1.jpg" style="object-fit: cover;" />
+          <img class="position-absolute w-100 h-100" src="../img/banner1.jpg" style="object-fit: cover;" />
           <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
             <div class="p-3" style="max-width: 900px;">
               <h4 class="text-white text-uppercase mb-4" style="letter-spacing: 3px;">
@@ -65,7 +65,7 @@ include_once "header.php";
         <div class="container py-5">
             <div class="row">
                 <div class="col-lg-5">
-                    <img class="img-fluid rounded" src="img/about.jpg" alt="">
+                    <img class="img-fluid rounded" src="../img/about.jpg" alt="">
                 </div>
                 <div class="col-lg-7 mt-4 mt-lg-0">
                     <h2 class="position-relative text-center bg-white text-primary rounded p-3 mt-4 mb-4 d-none d-lg-block" style="width: 350px; margin-left: -205px;">25 Years Experience</h2>
@@ -184,7 +184,7 @@ include_once "header.php";
             <div class="row">
                 <div class="col-lg-6" style="min-height: 500px;">
                     <div class="position-relative h-100 rounded overflow-hidden">
-                        <img class="position-absolute w-100 h-100" src="img/feature.jpg" style="object-fit: cover;">
+                        <img class="position-absolute w-100 h-100" src="../img/feature.jpg" style="object-fit: cover;">
                     </div>
                 </div>
                 <div class="col-lg-6 pt-5 pb-lg-5">
@@ -265,7 +265,7 @@ include_once "header.php";
                   2023
                 </p>
                 <div class="team-img position-relative">
-                  <img class="img-fluid rounded" src="img/noti1.jpeg" alt="" />
+                  <img class="img-fluid rounded" src="../img/noti1.jpeg" alt="" />
                 </div>
               </div>
             </a>
@@ -281,7 +281,7 @@ include_once "header.php";
                   2023
                 </p>
                 <div class="team-img position-relative">
-                  <img class="img-fluid rounded" src="img/noti1.jpeg" alt="" />
+                  <img class="img-fluid rounded" src="../img/noti1.jpeg" alt="" />
                 </div>
               </div>
             </a>
@@ -290,7 +290,7 @@ include_once "header.php";
                             <h5 class="mb-2 px-4">Attorney Name</h5>
                             <p class="mb-3 px-4">Practice Area</p>
                             <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-2.jpg" alt="">
+                                <img class="img-fluid" src="../img/team-2.jpg" alt="">
                                 <div class="team-social">
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -302,7 +302,7 @@ include_once "header.php";
                             <h5 class="mb-2 px-4">Attorney Name</h5>
                             <p class="mb-3 px-4">Practice Area</p>
                             <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-3.jpg" alt="">
+                                <img class="img-fluid" src="../img/team-3.jpg" alt="">
                                 <div class="team-social">
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -314,7 +314,7 @@ include_once "header.php";
                             <h5 class="mb-2 px-4">Attorney Name</h5>
                             <p class="mb-3 px-4">Practice Area</p>
                             <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-4.jpg" alt="">
+                                <img class="img-fluid" src="../img/team-4.jpg" alt="">
                                 <div class="team-social">
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -326,7 +326,7 @@ include_once "header.php";
                             <h5 class="mb-2 px-4">Attorney Name</h5>
                             <p class="mb-3 px-4">Practice Area</p>
                             <div class="team-img position-relative">
-                                <img class="img-fluid" src="img/team-5.jpg" alt="">
+                                <img class="img-fluid" src="../img/team-5.jpg" alt="">
                                 <div class="team-social">
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-twitter"></i></a>
                                     <a class="btn btn-outline-light btn-square mx-1" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -354,7 +354,7 @@ include_once "header.php";
                         Sed ea amet kasd elitr stet nonumy, stet rebum et ipsum est duo elitr clita lorem
                     </div>
                     <div class="d-flex align-items-center pt-3">
-                        <img class="img-fluid rounded-circle" src="img/testimonial-1.jpg"
+                        <img class="img-fluid rounded-circle" src="../img/testimonial-1.jpg"
                             style="width: 80px; height: 80px;" alt="">
                         <div class="pl-4">
                             <h5>Client Name</h5>
@@ -367,7 +367,7 @@ include_once "header.php";
                         Sed ea amet kasd elitr stet nonumy, stet rebum et ipsum est duo elitr clita lorem
                     </div>
                     <div class="d-flex align-items-center pt-3">
-                        <img class="img-fluid rounded-circle" src="img/testimonial-2.jpg"
+                        <img class="img-fluid rounded-circle" src="../img/testimonial-2.jpg"
                             style="width: 80px; height: 80px;" alt="">
                         <div class="pl-4">
                             <h5>Client Name</h5>
@@ -380,7 +380,7 @@ include_once "header.php";
                         Sed ea amet kasd elitr stet nonumy, stet rebum et ipsum est duo elitr clita lorem
                     </div>
                     <div class="d-flex align-items-center pt-3">
-                        <img class="img-fluid rounded-circle" src="img/testimonial-3.jpg"
+                        <img class="img-fluid rounded-circle" src="../img/testimonial-3.jpg"
                             style="width: 80px; height: 80px;" alt="">
                         <div class="pl-4">
                             <h5>Client Name</h5>
@@ -393,7 +393,7 @@ include_once "header.php";
                         Sed ea amet kasd elitr stet nonumy, stet rebum et ipsum est duo elitr clita lorem
                     </div>
                     <div class="d-flex align-items-center pt-3">
-                        <img class="img-fluid rounded-circle" src="img/testimonial-4.jpg"
+                        <img class="img-fluid rounded-circle" src="../img/testimonial-4.jpg"
                             style="width: 80px; height: 80px;" alt="">
                         <div class="pl-4">
                             <h5>Client Name</h5>
@@ -443,7 +443,7 @@ include_once "header.php";
               <tbody class="my-3 text-justify">
                 <tr class="sitios unidad-transparencia" onclick="transparencia()">
                   <td class="align-middle">
-                    <img src="img/transparencia.jpg" alt="" width="100%" />
+                    <img src="../img/transparencia.jpg" alt="" width="100%" />
                   </td>
                   <td class="">
                     <h3>Unidad de transparencia</h3>
@@ -456,7 +456,7 @@ include_once "header.php";
                 </tr>
                 <tr class="sitios unidad-contable" onclick="contables()">
                   <td class="align-middle">
-                    <img src="img/contables.jpg" alt="" width="100%" />
+                    <img src="../img/contables.jpg" alt="" width="100%" />
                   </td>
                   <td class="">
                     <h3>
@@ -469,7 +469,7 @@ include_once "header.php";
                 </tr>
                 <tr class="sitios unidad-sevac" onclick="sevac()">
                   <td class="align-middle">
-                    <img src="img/sevac.png" alt="" width="100%" />
+                    <img src="../img/sevac.png" alt="" width="100%" />
                   </td>
                   <td class="">
                     <h3>SEVAC Durango</h3>
@@ -494,19 +494,19 @@ include_once "header.php";
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://www.gob.mx','_blank');">
           <h4 class=" border-bottom">Gobierno de México</h4>
-          <img src="img/enlace1.jpeg" class="img-enlaces w-50 rounded-circle">
+          <img src="../img/enlace1.jpeg" class="img-enlaces w-50 rounded-circle">
         </div>
       </div>
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://web.diputados.gob.mx/inicio','_blank');">
           <h4 class=" border-bottom">Cámara de diputados</h4>
-          <img src="img/enlace2.png" class="img-enlaces w-50 rounded">
+          <img src="../img/enlace2.png" class="img-enlaces w-50 rounded">
         </div>
       </div>
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://www.senado.gob.mx/65/','_blank');">
           <h4 class=" border-bottom">Senado de la república</h4>
-          <img src="img/enlace3.png" class="img-enlaces w-50 rounded">
+          <img src="../img/enlace3.png" class="img-enlaces w-50 rounded">
         </div>
       </div>
     </div>
@@ -515,19 +515,19 @@ include_once "header.php";
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://www.durango.gob.mx','_blank');">
           <h4 class=" border-bottom">Gobierno del estado de Durango</h4>
-          <img src="img/enlace4.jpg" class="img-enlaces w-50 rounded-circle">
+          <img src="../img/enlace4.jpg" class="img-enlaces w-50 rounded-circle">
         </div>
       </div>
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://durangodigital.gob.mx','_blank');">
         <h4>Durango digital</h4>
-          <img src="img/enlace6.png" alt="Durango digital" class="img-enlaces w-75 rounded-cicle">
+          <img src="../img/enlace6.png" alt="Durango digital" class="img-enlaces w-75 rounded-cicle">
         </div>
       </div>
       <div class="col-sm-4 d-flex flex-row">
         <div class="otros-enlaces" onclick="window.open('https://congresodurango.gob.mx/inicio','_blank');">
           <h4 class=" border-bottom">Congreso del estado de Durango</h4>
-          <img src="img/enlace5.png" class="img-enlaces w-75 rounded">
+          <img src="../img/enlace5.png" class="img-enlaces w-75 rounded">
         </div>
       </div>
 
@@ -542,26 +542,26 @@ include_once "header.php";
   <!-- JavaScript Libraries -->
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-  <script src="lib1/easing/easing.min.js"></script>
-  <script src="lib1/waypoints/waypoints.min.js"></script>
-  <script src="lib1/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib1/tempusdominus/js/moment.min.js"></script>
-  <script src="lib1/tempusdominus/js/moment-timezone.min.js"></script>
-  <script src="lib1/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
+  <script src="../lib1/easing/easing.min.js"></script>
+  <script src="../lib1/waypoints/waypoints.min.js"></script>
+  <script src="../lib1/owlcarousel/owl.carousel.min.js"></script>
+  <script src="../lib1/tempusdominus/js/moment.min.js"></script>
+  <script src="../lib1/tempusdominus/js/moment-timezone.min.js"></script>
+  <script src="../lib1/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v17.0"
     nonce="ZjgztQQw"></script>
   <!-- Contact Javascript File -->
-  <script src="mail/jqBootstrapValidation.min.js"></script>
-  <script src="mail/contact.js"></script>
+  <script src="../mail/jqBootstrapValidation.min.js"></script>
+  <script src="../mail/contact.js"></script>
 
   <!-- Template Javascript -->
-  <script src="js/main.js"></script>
+  <script src="../js/main.js"></script>
   <script src="enlaces_interes.js"></script>
 </body>
 
 </html>
 
 <?php 
-include_once "footer.php";
+include_once "../footer-header/footer.php";
 
 ?>

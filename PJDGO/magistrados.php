@@ -1,5 +1,6 @@
 <?php
-include_once "pjdgo_header.php";
+include_once "../footer-header/header.php";
+include_once "../librerias/librerias.php";
 ?>
 
 <!DOCTYPE html>
@@ -253,5 +254,5 @@ include_once "pjdgo_header.php";
 
 
 <?php
-include_once "footer_pjdgo.php";
+include_once "../footer-header/footer.php";
 ?>

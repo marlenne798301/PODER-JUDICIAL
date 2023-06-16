@@ -4,8 +4,8 @@
 <link rel="shortcut icon" href="img/logo1.jpg">
 
 <div class="col-lg-12 d-none d-lg-block">
-    <a href="index.php" class="navbar-brand h-2 m-0 p-0 d-flex align-items-center justify-content-center">
-        <img class="ml-5 rounded " src="img/logo1.jpg" style="width: 10%; margin: 12px;" alt="PJDGO">
+    <a href="../inicio/index.php" class="navbar-brand h-2 m-0 p-0 d-flex align-items-center justify-content-center">
+        <img class="ml-5 rounded " src="../img/logo1.jpg" style="width: 10%; margin: 12px;" alt="PJDGO">
     </a>
 </div>
 
@@ -17,7 +17,7 @@
         <div class="mb-2">
             <!-- PANEL DE NAVEGACION DE PAGINA -->
             <nav class="navbar navbar-expand-lg navbar-light " style="background-color: rgba(255,255,255,0.9)">
-                <a href="index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
+                <a href="../inicio/index.php" class="navbar-brand d-block d-lg-none" class="col-xs-1">
                     <h1 style="color: #373737">Poder Judicial</h1>
                     <h1 style="color: #373737">del Estado de Durango</h1>
                     <div class="linea"
@@ -32,7 +32,7 @@
 
                         </div>
                         <div class="col-md-2 m-1">
-                            <a href="index.php" class="nav-item nav-link "><span class="material-symbols-outlined">home
+                            <a href="../inicio/index.php" class="nav-item nav-link "><span class="material-symbols-outlined">home
                                 </span> Inicio </a>
                         </div>
 
@@ -43,31 +43,31 @@
                                 <a href="#" class="nav-link dropdown-toggle " data-toggle="dropdown"><span
                                         class="material-symbols-outlined ">gavel </span> PJDGO</a>
                                 <div class="dropdown-menu rounded-0 m-0">
-                                    <a href="PJDGO/magistrados.php" class="dropdown-item"><img width="25" height="25"
+                                    <a href="../PJDGO/magistrados.php" class="dropdown-item"><img width="25" height="25"
                                             src="https://img.icons8.com/ios/50/court-judge.png" alt="court-judge" />
                                         Magistrados</a>
                                     <br>
-                                    <a href="PJDGO/consejeros.php" class="dropdown-item"><img width="25" height="25"
+                                    <a href="../PJDGO/consejeros.php" class="dropdown-item"><img width="25" height="25"
                                             src="https://img.icons8.com/ios/50/table-top-view.png"
                                             alt="table-top-view" /> Consejeros</a>
                                     <br>
-                                    <a href="PJDGO/acuerdosTribunal.php" class="dropdown-item"> <span
+                                    <a href="../PJDGO/acuerdosTribunal.php" class="dropdown-item"> <span
                                             class="material-symbols-outlined"> handshake </span> Acuerdos del
                                         Tribunal</a>
                                     <br>
-                                    <a href="PJDGO/acuerdosConsejo.php" class="dropdown-item"><span
+                                    <a href="../PJDGO/acuerdosConsejo.php" class="dropdown-item"><span
                                             class="material-symbols-outlined">record_voice_over</span> Acuerdos del
                                         Consejo</a>
                                     <br>
-                                    <a href="PJDGO/marcoNormativo.php" class="dropdown-item"><img width="25" height="25"
+                                    <a href="../PJDGO/marcoNormativo.php" class="dropdown-item"><img width="25" height="25"
                                             src="https://img.icons8.com/material-outlined/24/scales.png" alt="scales" />
                                         Marco Normativo </a>
                                     <br>
-                                    <a href="PJDGO/codigoEtica.php" class="dropdown-item"><img width="24" height="24"
+                                    <a href="../PJDGO/codigoEtica.php" class="dropdown-item"><img width="24" height="24"
                                             src="https://img.icons8.com/material-outlined/24/read.png" alt="read" />
                                         Código de Ética </a>
                                     <br>
-                                    <a href="PJDGO/estadisticaJudicial.php" class="dropdown-item"><img width="25"
+                                    <a href="../PJDGO/estadisticaJudicial.php" class="dropdown-item"><img width="25"
                                             height="25" src="https://img.icons8.com/material-outlined/24/bullish.png"
                                             alt="bullish" /> Estadistica Judicial</a>
                                     <br>
@@ -78,7 +78,7 @@
 
 
                         <div class="col-md-3 m-1 ">
-                            <a href="service.php" class="nav-item nav-link "><span
+                            <a href="../organigrama/organigrama.php" class="nav-item nav-link "><span
                                     class="material-symbols-outlined">assured_workload</span> Organigrama
                                 Institucional</a>
                         </div>

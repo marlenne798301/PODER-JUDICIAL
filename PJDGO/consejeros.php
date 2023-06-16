@@ -1,5 +1,6 @@
 <?php
-include_once "pjdgo_header.php";
+include_once "../footer-header/header.php";
+include_once "../librerias/librerias.php";
 ?>
 
 <!DOCTYPE html>
@@ -8,7 +9,6 @@ include_once "pjdgo_header.php";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../css/.css" rel="stylesheet">
     <title>CONSEJEROS</title>
 </head>
 <body>
@@ -90,5 +90,5 @@ include_once "pjdgo_header.php";
 </html>
 
 <?php
-include_once "footer_pjdgo.php";
+include_once "../footer-header/footer.php";
 ?>
