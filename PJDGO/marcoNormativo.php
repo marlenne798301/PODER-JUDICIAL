@@ -1,7 +1,6 @@
 <?php
 include_once "../footer-header/header.php";
 include_once "../librerias/librerias.php";
-
 ?>
 
 <!DOCTYPE html>
@@ -792,6 +791,9 @@ include_once "../librerias/librerias.php";
           </table>
         </div>
       </div>
+
+      <!-- BOTÓN DE REGRESAR AL INICIO -->
+    <a href="#" class="btn btn-primary px-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
 </body>
 </html>
