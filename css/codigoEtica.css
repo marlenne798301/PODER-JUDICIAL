@@ -1,0 +1,9 @@
+body {
+    overflow: hidden;
+ }
+
+ #codigo {
+     width: 1050px;
+     height: 690px;
+     margin: 0% auto;
+ }

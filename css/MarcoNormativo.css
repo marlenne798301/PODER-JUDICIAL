@@ -61,3 +61,14 @@
     cursor: pointer;
     text-decoration: none;
   }
+
+   /* Estilos por defecto para pantallas grandes */
+   @media only screen and (max-width: 768px) {
+    table {
+      font-size: 12px;
+    }
+    
+    th, td {
+      padding: 5px;
+    }
+  }
