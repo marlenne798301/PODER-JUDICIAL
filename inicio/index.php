@@ -10,8 +10,6 @@ include_once "../footer-header/header.php";
   <meta charset="utf-8" />
   <title>Poder Judicial del Estado de Durango</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-  <!-- Favicon -->
-  <link href="../img/favicon.ico" rel="icon" />
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" />
   <link

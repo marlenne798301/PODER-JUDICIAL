@@ -1,4 +1,5 @@
 <!-- CONTENIDO DEL ENCABEZADO DE PAGINA O MENU DE NAVEGACION -->
+<link rel="icon" href="http://pjdgo.gob.mx/wp-content/uploads/2023/05/Logo-PJDGO-2022.png" sizes="192x192">
 <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 <link rel="shortcut icon" href="img/logo1.jpg">
@@ -78,7 +79,7 @@
 
 
                         <div class="col-md-3 m-1 ">
-                            <a href="../organigrama/organigrama.php" class="nav-item nav-link "><span
+                            <a href="../404.html" class="nav-item nav-link "><span
                                     class="material-symbols-outlined">assured_workload</span> Organigrama
                                 Institucional</a>
                         </div>

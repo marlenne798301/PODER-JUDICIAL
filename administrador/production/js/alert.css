@@ -1,0 +1,13 @@
+.swal-button--confirm {
+    color: #ffffff; /* Color de texto blanco */
+    background-color: #0080c0;
+    
+  }
+  
+  .swal-button--cancel {
+    color: #ffffff; /* Color de texto blanco */
+    background-color: red;
+  }
+  .error{
+    color: red;
+  }
